@@ -97,9 +97,9 @@ def menu():
     os.system('clear')
     print logo
     print ''
-    print '\033[0;93mAUTHOR   : Naeem Khan Vai'
+    print '\033[0;93mAUTHOR   : Naeem Khan '
     print '\033[0;94mFACEBOOK : mdnaeem.n2m'
-    print '\033[0;96mGITHUB   : Naeem-n2m
+    print '\033[0;96mGITHUB   : naeemn2m
     print ''
     print '\033[0;90mONLY BANGLADESHI ACCOUNTS ARE AVAILABLE'
     print '\033[0;91m'
